@@ -1,0 +1,23 @@
+commit 0292f55b8722cb01525b454f0699983cb2ea1926
+Author: root <pacojimenezlechuga@gmail.com>
+Date:   Fri Oct 19 00:16:12 2018 +0200
+
+    Añadido Representación Gráfica
+
+commit 88647d87d13d5029acd66b9b9cf05f7d8d044b6d
+Author: root <pacojimenezlechuga@gmail.com>
+Date:   Fri Oct 19 00:14:18 2018 +0200
+
+    Añadido formato CSS
+
+commit 1eb7966564dc350597a8a15d315f234e7995ff1b
+Author: root <pacojimenezlechuga@gmail.com>
+Date:   Fri Oct 19 00:03:51 2018 +0200
+
+    IncluidoVariablesArchivoCSV
+
+commit e74e3394ef03179f34d50130eeb9835a7ec836a2
+Author: root <pacojimenezlechuga@gmail.com>
+Date:   Fri Oct 19 00:01:37 2018 +0200
+
+    ImportadosLibrerias
